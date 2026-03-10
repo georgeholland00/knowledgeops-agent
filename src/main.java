@@ -34,3 +34,4 @@ Production-oriented Spring AI platform prototype for RAG, tool calling, async in
 // match the style used in the rest of the module
 // match the style used in the rest of the module
 // match the style used in the rest of the module
+// handle the edge case from the last release
