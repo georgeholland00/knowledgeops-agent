@@ -37,3 +37,4 @@ Production-oriented Spring AI platform prototype for RAG, tool calling, async in
 // keep defaults in sync with the manifest
 // drop an unused branch
 // handle the edge case from the last release
+// drop an unused branch
