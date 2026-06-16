@@ -44,3 +44,4 @@ Production-oriented Spring AI platform prototype for RAG, tool calling, async in
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
+// keep defaults in sync with the manifest
